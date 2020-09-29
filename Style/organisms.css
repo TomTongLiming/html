@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+/* header start */
+a{
+    text-decoration: none!important;
+    color: rgba(99, 130, 189, 0.685);
+    font-family: 'Playfair Display', serif;
+}
+a:hover {
+    color: silver;
+}
+a:focus {
+    color: rgba(99, 130, 189, 0.685);
+}
+body{
+    margin:0;
+    /* background: rgb(218, 217, 213); */
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    color: white;
+}
+header{
+    /* background: rgb(252, 252, 248) ; */
+    background-position:center;
+    height:px;
+    padding:20px;
+    padding-bottom: 20px;
+    text-align:center;
+    text-decoration: none;
+    
+}
+nav ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+nav li{
+    display:inline-block;
+    margin-right:20px;
+} 
+h1{
+    color:white;
+    font-weight:700;
+    margin-top:125px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    line-height: 23px;
+    font-family: 'Playfair Display', sans-serif;
+    margin-bottom: 200px;
+
+}
+
+figure{
+    margin-bottom: 200px;
+    text-align: center;
+}
+
+.logo{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+.logo h1{
+    padding-top: 10px;
+    color: rgba(99, 130, 189, 0.685);
+}
+
+.animals{
+    position: fixed;
+    text-align: left;
+    width: 100px;
+}
+
+/* .text-section{
+    position: absolute;
+    width: 100px;
+    margin-left: 30%;
+    margin-right: 30px;
+    border: 3px solid #73AD21;
+} */
+
+h2{
+    color: rgba(99, 130, 189, 0.685);
+    
+}
+
+p{
+    color: black;
+    width: 500px;
+    /* margin: auto;  */
+    /* margin-top: 200px; */
+    /* margin-bottom: 200px; */
+    line-height: 150%;
+    margin: auto;
+
+}
+
+div{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    
+}
+
+/* img{
+    position: relative;
+} */
+
+/* .name{
+    width: 50px;
+    text-align: center;
+} */
+
+/* figure{
+    max-width: 100px;
+} */
+
+/* .whales{
+    position: block;
+    margin-left: 40px;
+    text-align: left;
+}
+
+.whale-pic{
+    position: absolute;
+    margin-left: 600px;
+    padding-bottom: 30px;
+    size: 40px;
+} */
+
+/* .fox-box{
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    margin-left: 40px;
+} */
+
+
